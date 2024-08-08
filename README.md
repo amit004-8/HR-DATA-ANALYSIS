@@ -1,4 +1,5 @@
 HR Data Attrition Analysis 📊
+
 Overview
 In this project, we delve into HR data to uncover insights into employee attrition. By examining factors such as department, salary bands, age groups, education levels, and gender, we aim to identify patterns and trends that could help in understanding and reducing employee turnover.
 
